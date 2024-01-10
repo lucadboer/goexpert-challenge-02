@@ -21,8 +21,8 @@ Este é um desafio de programação em Go que consiste em buscar informações d
 
 2. **Clonar o Repositório**:
     ```bash
-    git clone https://github.com/seu_usuario/pos-go-luca.git
-    cd pos-go-luca/challenges/Multithreading
+    git clone https://github.com/lucadboer/goexpert-challenge-02.git || git@github.com:lucadboer/goexpert-challenge-02.git
+    cd goexpert-challenge-02
     ```
 
 3. **Executar a Aplicação**:
