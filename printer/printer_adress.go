@@ -2,7 +2,8 @@ package printer_app
 
 import (
 	"fmt"
-	"pos-go-luca/challenges/Multithreading/dto"
+
+	"github.com/lucadboer/goexpert/challenge-2/dto"
 )
 
 func PrintAddressFromBrasilAPI(address *dto.AddressBrasilAPI) {

@@ -4,8 +4,9 @@ import (
 	"encoding/json"
 	"io"
 	"net/http"
-	"pos-go-luca/challenges/Multithreading/dto"
 	"time"
+
+	"github.com/lucadboer/goexpert/challenge-2/dto"
 )
 
 func FetchAddressFromBrasilAPI(cep string) (*dto.AddressBrasilAPI, error) {

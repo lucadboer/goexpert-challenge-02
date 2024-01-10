@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	get_adress "pos-go-luca/challenges/Multithreading/api"
-	"pos-go-luca/challenges/Multithreading/dto"
-	printer_app "pos-go-luca/challenges/Multithreading/printer"
 	"time"
+
+	get_adress "github.com/lucadboer/goexpert/challenge-2/api"
+	"github.com/lucadboer/goexpert/challenge-2/dto"
+	printer_app "github.com/lucadboer/goexpert/challenge-2/printer"
 )
 
 func main() {
