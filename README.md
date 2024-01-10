@@ -1,4 +1,4 @@
-# Multithreading Challenge
+# Multithreading com goroutines - challenge
 
 Este é um desafio de programação em Go que consiste em buscar informações de endereço de duas APIs diferentes simultaneamente e imprimir os detalhes do endereço da API que responder mais rapidamente.
 
@@ -21,7 +21,7 @@ Este é um desafio de programação em Go que consiste em buscar informações d
 
 2. **Clonar o Repositório**:
     ```bash
-    git clone https://github.com/lucadboer/goexpert-challenge-02.git || git@github.com:lucadboer/goexpert-challenge-02.git
+    git clone https://github.com/lucadboer/goexpert-challenge-02.git
     cd goexpert-challenge-02
     ```
 
